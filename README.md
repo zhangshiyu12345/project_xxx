@@ -1,2 +1,2 @@
 # project_xxx
-This is a my 2 project.
+This is test repository for zhangshiyu12345‘s video.
